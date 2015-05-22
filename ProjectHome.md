@@ -1,0 +1,1 @@
+Convert many different file types in an easy to use GUI. Right now we're working on audio, soon we're going to be working on video, documents, archives, and much, much more. Check out the code, we're still very new but we've done a lot so far.
